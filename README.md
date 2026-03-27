@@ -1,5 +1,12 @@
 ![ndong-henry](https://drive.google.com/uc?export=view&id=16yssbhSRUiw_K6ml_qgK8eX8GTRMGtI8)
 
+---
+
+
+### See my works :technologist:
+
+#### Software Engineering Projects
+
 <!--
 **Ndong21/Ndong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
