@@ -6,6 +6,14 @@
 ### See my works :technologist:
 
 #### Software Engineering Projects
+1. [Software-as-a-Service business management application](https://github.com/Ndong21/SaaS-backend)
+2. [Scalable API that communicates with CamPay (Payment aggregator in Cameroon), built with Go](https://github.com/Ndong21/APIs-with-Go)
+3. [FreeCodeCamp projects I completed when i started web development](https://github.com/Ndong21/freeCodeCamp-Responsive-Web-Design-Projects)
+
+#### ML and DS Projects 🧑‍🔬
+1. One
+2. Two
+
 
 <!--
 **Ndong21/Ndong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
