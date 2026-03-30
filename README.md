@@ -11,12 +11,10 @@
 3. [FreeCodeCamp projects I completed when i started web development](https://github.com/Ndong21/freeCodeCamp-Responsive-Web-Design-Projects)
 
 #### Cloud and DevOps Projects 🧑‍🔬
-1. One
-2. Two
+1. [Deploying a static website on Amazon S3](https://github.com/Ndong21/project-1-hosting-static-site-on-s3)
 
 #### ML and DS Projects 🧑‍🔬
-1. One
-2. Two
+
 
 
 <!--
